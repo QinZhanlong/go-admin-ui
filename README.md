@@ -9,9 +9,9 @@
 
 - [在线预览](http://www.zhangwj.com/#/login)
 
-- [后端项目](https://github.com/wenjianzhang/go-admin)
+- [后端项目](https://github.com/QinZhanlong/go-admin)
 
-- [前端项目](https://github.com/wenjianzhang/go-admin-ui)
+- [前端项目](https://github.com/QinZhanlong/go-admin-ui)
 
 
 
